@@ -54,6 +54,7 @@ DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,statically
+
 # GFW list
 DOMAIN-SUFFIX,gfwlist.start
 DOMAIN-SUFFIX,000webhost.com
