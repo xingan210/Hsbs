@@ -1,0 +1,6 @@
+机场改名
+示例 `Aaws@B`
+`日本aws@Japan``新加坡aws@Singapore``香港001 - hysteria2@Hong Kong - 001``香港002 - hysteria2@Hong Kong - 002``香港003 - hysteria2@Hong Kong - 003``台湾01 - hysteria2@Taiwan - 001``台湾002 - hysteria2@Taiwan - 002``台湾003 - hysteria2@Taiwan - 003``美国001 - hysteria2@United States - 001``美国002 - hysteria2@United States - 002``美国003 - hysteria2@United States - 003`
+
+排除节点关键词
+下次|天|官网|全局|91|回家|发布|更新|定时|正常|所有|收藏|一元|测试|剩余|到期
